@@ -1,4 +1,0 @@
-Testing S3 CLI
-Updated file in local Repo
-Added push default setting
-
